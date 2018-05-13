@@ -16,36 +16,11 @@ Then through googling I found out about the Google-Udacity scholarships for the 
 >Hi Ankush,
 >We are excited to offer you a Google India Challenge Scholarship for the Android Basics track. We received applications from many       >talented and motivated candidates, and yours truly stood out.
 
+![image](https://user-images.githubusercontent.com/33070301/39969307-6df40bd2-56f7-11e8-942d-2b53b6f943cc.png)
 
+                                    Thank you Udacity and Google♥
+                                    
+My life has never been the same since that day. I have learnt a lot from the amazing community by helping others and also asking for help. The quizzes, challenges, collaborative projects,etc have been a wonderful learning experience where we learnt a lot of new things and also got to know a lot of new people. 
 
-### Markdown
+So this was my amazing experience of how I got selected and how I participated in the program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lifeLessCoder/lifeLessCoder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
